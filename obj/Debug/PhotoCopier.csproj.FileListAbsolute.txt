@@ -1,0 +1,27 @@
+C:\Users\SSAFAK\Documents\Visual Studio 2012\Projects\PhotoCopier\PhotoCopier\bin\Debug\PhotoCopier.exe.config
+C:\Users\SSAFAK\Documents\Visual Studio 2012\Projects\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.csprojResolveAssemblyReference.cache
+C:\Users\SSAFAK\Documents\Visual Studio 2012\Projects\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.Form1.resources
+C:\Users\SSAFAK\Documents\Visual Studio 2012\Projects\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.Properties.Resources.resources
+C:\Users\SSAFAK\Documents\Visual Studio 2012\Projects\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.csproj.GenerateResource.Cache
+C:\Users\SSAFAK\Documents\Visual Studio 2012\Projects\PhotoCopier\PhotoCopier\bin\Debug\PhotoCopier.exe
+C:\Users\SSAFAK\Documents\Visual Studio 2012\Projects\PhotoCopier\PhotoCopier\bin\Debug\PhotoCopier.pdb
+C:\Users\SSAFAK\Documents\Visual Studio 2012\Projects\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.exe
+C:\Users\SSAFAK\Documents\Visual Studio 2012\Projects\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.pdb
+F:\_Source\_c#\PhotoCopier\PhotoCopier\bin\Debug\PhotoCopier.exe.config
+F:\_Source\_c#\PhotoCopier\PhotoCopier\bin\Debug\PhotoCopier.exe
+F:\_Source\_c#\PhotoCopier\PhotoCopier\bin\Debug\PhotoCopier.pdb
+F:\_Source\_c#\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.Form1.resources
+F:\_Source\_c#\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.Properties.Resources.resources
+F:\_Source\_c#\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.csproj.GenerateResource.Cache
+F:\_Source\_c#\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.exe
+F:\_Source\_c#\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.pdb
+G:\_Source\_c#\PhotoCopier\PhotoCopier\bin\Debug\PhotoCopier.exe.config
+G:\_Source\_c#\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.exe
+G:\_Source\_c#\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.pdb
+G:\_Source\_c#\PhotoCopier\PhotoCopier\bin\Debug\PhotoCopier.exe
+G:\_Source\_c#\PhotoCopier\PhotoCopier\bin\Debug\PhotoCopier.pdb
+G:\_Source\_c#\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.csprojResolveAssemblyReference.cache
+G:\_Source\_c#\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.Form1.resources
+G:\_Source\_c#\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.Properties.Resources.resources
+G:\_Source\_c#\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.csproj.GenerateResource.Cache
+F:\_Source\_c#\PhotoCopier\PhotoCopier\obj\Debug\PhotoCopier.csprojResolveAssemblyReference.cache
